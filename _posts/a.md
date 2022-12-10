@@ -1,0 +1,1 @@
+find your passion and pursue it, you don't waste time on trivia
