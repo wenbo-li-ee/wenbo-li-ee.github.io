@@ -827,3 +827,451 @@ Despite these factors, it is essential to recognize that many people still prior
 
 In conclusion, while certain factors in today's society may contribute to the perception of increased self-centeredness, it is crucial to recognize that there are many people who are deeply committed to the well-being of others and their communities. It is important to focus on promoting empathy, compassion, and cooperation to create a more inclusive and caring society.
 
+---
+
+# 帮助亲人朋友
+
+**Describe a time when you were teaching a friend or a relative to do something.**
+**You should say:**
+**Who you taught**
+**What you taught him/her to do**
+**How easy it was to teach him/her**
+**And explain how you felt about teaching this friend/relative.**
+
+In my response to this IELTS speaking test question, I would like to recount a memorable experience when I taught my mother how to use a mobile application. My mother, who has always been quite traditional and somewhat hesitant to embrace new technology, showed a sudden interest in using a mobile application for communication and organization purposes. The app I introduced her to was called "WhatsApp," a widely popular instant messaging platform that is user-friendly and provides various features, such as voice and video calls, sending documents, and creating groups.
+
+Although my mother had never used such an application before, she was motivated to learn and stay connected with her friends and family members more efficiently. Before we started, I made sure to explain the basic functions of her smartphone and the fundamentals of using apps, which laid a solid foundation for our learning process.
+
+To my surprise, teaching my mother how to use WhatsApp was easier than I had anticipated. She was a quick learner and was able to grasp the concepts quite well. I started by demonstrating how to add contacts, send text messages, and make voice calls. We then moved on to more advanced features, like sharing media files, creating groups, and customizing her privacy settings. Throughout the process, I maintained a patient and supportive attitude, which I believe was crucial to her successful learning experience.
+
+Overall, I felt a great sense of accomplishment and satisfaction in teaching my mother how to use the WhatsApp application. Not only did it strengthen our bond, but it also empowered her to embrace the digital age and enhance her communication with loved ones. Furthermore, the experience taught me the importance of patience and effective communication in the process of teaching. I am proud of my mother's progress and am always eager to assist her in exploring new applications and digital tools.
+
+---
+
+# 开学第一天
+
+**Describe something you remember about your first day at a new school.**
+**You should say:**
+**Where the school was**
+**What you remember well**
+**How you felt about your first day at the school**
+**And explain why you remember this about your first day at the new school.**
+
+On my first day of high school, I found myself in a school located in the ancient district of the city, right beside a river that flowed through the heart of the town. The picturesque surroundings were enchanting, and the school was only a 15-minute bike ride from my home. Additionally, it was in close proximity to my middle school, which added a sense of familiarity to the new experience.
+
+As I entered the classroom and watched my classmates arrive one by one, I was delighted to discover that one of my closest friends from middle school was also in the same class. This unexpected reunion brought me immense joy and relief, as I knew that I would have a trusted companion by my side during this new academic journey. Furthermore, I found our teachers to be incredibly approachable and amiable, which further contributed to the positive atmosphere in the classroom.
+
+On that first day, I felt a mix of emotions. I was understandably nervous about the new environment and the academic challenges that high school would bring, but the presence of my close friend and the kind teachers made me feel more at ease. I also experienced excitement and anticipation, as I looked forward to exploring new subjects and participating in various extracurricular activities offered by the school.
+
+The reason why this day stands out in my memory is because it marked the beginning of a significant chapter in my life. It was a day filled with newfound hope, camaraderie, and reassurance. The beautiful surroundings, the support of my friend, and the warmth of the teachers created an environment that fostered personal and academic growth. This unforgettable experience taught me the value of friendship, adaptability, and resilience, and has had a lasting impact on my outlook and approach towards life's challenges.
+
+---
+
+I would like to share my experience of the first day at a new school, which still remains vivid in my memory. This school, which I joined when I was 13 years old, was located in a serene suburban area, surrounded by lush greenery and well-manicured lawns. The campus had a picturesque setting, which was a stark contrast to my previous school that was situated in the heart of the city.
+
+What I remember distinctly about my first day at this new school is the warm welcome I received from both the staff and my fellow students. Upon entering the school premises, I was greeted by the principal, who took the time to personally introduce me to my new teachers and classmates. This kind gesture made me feel valued and eased my nerves. Another memorable aspect of that day was the school's impressive library, boasting an extensive collection of books and resources that immediately piqued my curiosity.
+
+Naturally, I felt a mixture of anxiety and excitement on my first day. The prospect of making new friends and adapting to a different environment was intimidating, but at the same time, I was eager to embrace the new opportunities that lay ahead. The friendly atmosphere and the supportive attitude of the people around me helped in alleviating my initial apprehensions.
+
+The reason I remember this particular day so vividly is that it marked the beginning of a transformative period in my life. My first day at the new school set the tone for my entire academic journey there, fostering a positive environment that nurtured my intellectual and personal growth. The warm reception I received on that day served as a powerful reminder of the importance of empathy and kindness, which has stayed with me ever since. Ultimately, this experience has left an indelible mark on my character and continues to shape the person I am today.
+
+---
+
+# 难用的科技产品
+
+**Describe a piece of technology that you find difficult to use.**
+**You should say:**
+**What you use it for**
+**When you got it**
+**How often you need to use it**
+**And explain why you find this piece of technology difficult to use.**
+
+I would like to talk about my struggles with using a smart home device called a voice assistant. Specifically, I own an Amazon Echo Dot, which I received as a gift from a friend last year. The primary function of the device is to respond to voice commands and perform various tasks, such as playing music, setting reminders, and controlling other smart devices in my home.
+
+Although the concept of voice assistants is becoming increasingly prevalent, I find it challenging to use this particular technology effectively. One reason for this is the device's sensitivity to background noise and environmental factors. For example, when I try to give a voice command, the device may not always understand me correctly if there is noise from other people or appliances in the room. This often leads to frustrating experiences, where I need to repeat my commands multiple times or adjust my pronunciation to be understood by the device.
+
+Another challenge I face with the voice assistant is the limited range of functions and commands that it can perform. While the device has various skills and features, it may not always be compatible with the other devices or systems in my home. This can make it difficult to use the device to its full potential or integrate it into my daily routine seamlessly.
+
+Despite these challenges, I recognize the potential benefits of using a voice assistant in terms of convenience and efficiency. I believe that as the technology continues to improve, and more features become available, the voice assistant will become a more valuable tool for my daily life. In the meantime, I will continue to experiment with different ways of using the device, and work on improving my communication skills with the voice assistant.
+
+---
+
+I would like to describe a piece of technology that I find quite challenging to use: a digital drawing tablet. This tablet is designed for creating digital illustrations, graphic designs, and animations, and it's a tool commonly used by artists and designers to bring their creative ideas to life. I acquired the drawing tablet about a year ago as a gift, with the hope of improving my digital art skills and expanding my creative horizons.
+
+I use the drawing tablet sporadically, typically when I have some free time or when I feel inspired to create digital artwork. As a hobbyist, I do not need to use it as frequently as a professional artist would; however, I do make an effort to practice and become more proficient in using the tablet.
+
+The primary reason I find this piece of technology difficult to use is the steep learning curve associated with transitioning from traditional pen-and-paper drawing to a digital medium. With the drawing tablet, I need to look at the computer screen while drawing on the tablet surface, which can be quite disorienting initially. The absence of a direct visual feedback on the tablet surface adds to the complexity of using the device.
+
+Another challenge I face while using the drawing tablet is mastering the various software programs required for creating digital art. These programs often have numerous features and tools that can be overwhelming for a beginner. Additionally, the pressure sensitivity and responsiveness of the stylus can be difficult to adjust to, as they require a different level of control and precision compared to traditional drawing tools.
+
+Despite these challenges, I am determined to improve my proficiency with the drawing tablet, as I believe it is a powerful tool that can help me unlock new creative possibilities. My struggles with the tablet serve as a reminder that learning new technologies often requires patience, perseverance, and an open mind, and that these qualities are essential for growth and adaptation in our rapidly evolving digital world.
+
+---
+
+# 年轻时的空闲活动
+
+**Describe an activity you enjoyed doing in your free time when you were younger**
+**You should say:**
+**What free-time activity you did**
+**Where you did the activity**
+**Who you did it with**
+**And explain why you enjoyed doing this activity in your free time when you were younger**
+
+One activity that I really enjoyed doing in my free time when I was younger was playing basketball with my friends. We would usually play at the local park, which had a basketball court that was easily accessible for us. It was a great way to stay active and improve our basketball skills while having fun with our friends.
+
+I would typically play basketball with a group of 4-5 friends, who were all around the same age as me. We would play pick-up games or shoot around, practicing different moves and techniques. We all shared a common love for the game, and it was a way for us to **bond over our mutual interest**.
+
+I enjoyed playing basketball because it was a physically challenging sport that **required both skill and teamwork.** It was a great way to **stay in shape** and improve my athletic abilities, as well as learn important life lessons such as **perseverance and resilience**. Additionally, basketball helped me to build friendships and connect with other people who shared my passion for the sport.
+
+Looking back, I realize that basketball **played an important role in shaping who I am today**. It taught me valuable lessons about teamwork, sportsmanship, and hard work, **which have carried over into other aspects of my life**. Even though I may not play basketball as much anymore, the memories and experiences I gained from playing with my friends will always be cherished.
+
+---
+
+# 排队里交谈甚欢的人
+
+**Describe a person who you enjoyed talking to at a party.**
+**You should say:**
+**Who the person was**
+**When and where the party was**
+**What you talked about**
+**And explain why you enjoyed talking to this person at the party.**
+
+I would like to talk about a person whom I met at a party and had a great conversation with. This person was a fellow partygoer named Sarah, whom I met at a friend's housewarming party a few months ago. Sarah was a warm and friendly individual who **struck up a conversation with me** and immediately **put me at ease**.
+
+The party was held in a **spacious and cozy apartment** located in the downtown area. The event was well-attended, with guests from various backgrounds and professions. Despite the large crowd, Sarah and I found ourselves chatting **in a quieter corner** of the room, **away from the noise and commotion**.
+
+We talked about a range of topics, including our interests, hobbies, and work experiences. Sarah had a fascinating background, having worked in a variety of industries before **settling into her current job** in marketing. We shared stories about our travels and discussed our favorite books and movies. It was a **relaxed and engaging conversation** that **left me feeling energized and inspired.**
+
+What I enjoyed most about talking to Sarah was her **genuine curiosity and openness to different perspectives**. She was a great listener and asked thoughtful questions that **sparked deeper discussions**. Additionally, her **positive energy and infectious enthusiasm** made our conversation all the more enjoyable.
+
+**In retrospect**, I realize that the conversation I had with Sarah was more than just a casual exchange of words; it was an opportunity to connect with another human being on a meaningful level. It reminded me of the importance of being present, **listening actively, and engaging with others authentically**. Sarah's positive attitude and **friendly demeanor** left a lasting impression on me, and I am grateful for the opportunity to have met her at the party.
+
+---
+
+# 嘈杂的地方
+
+**Describe a place you went to that was very noisy.**
+**You should say:**
+**Where this place was**
+**What you did there**
+**Why it was very noisy**
+**And explain how you felt about this place being so noisy.**
+
+One place that I visited recently, which was incredibly noisy, was a **bustling street market** in a **vibrant neighborhood** of my city. The market was located in the heart of the city, and it was an area known for its vibrant street culture and diverse food scene. As soon as I stepped into the market, I was immediately overwhelmed by the sheer volume of noise.
+
+The main activity I did at the market was exploring the **various food stalls and vendors**, which offered **a wide range of cuisines and delicacies**. The market was a **sensory overload**, with the aromas of different spices and flavors mixing together, and the sounds of street performers, vendors shouting their wares, and people **bargaining and haggling for deals**. The **hustle and bustle** of the market were what made it so exciting and unique.
+
+The reason why the market was so noisy was due to its popularity and the **sheer number of people** who were there. The market was a hotspot for **tourists and locals alike**, with crowds of people **jostling for space** and trying to **get a glimpse of** the various street performers and vendors. Additionally, the music and sounds from the different food vendors and street performers added to the chaos and noise level.
+
+While the noise level at the market was **intense**, I felt that it **added to the overall experience and energy** of the place. It was an opportunity to **immerse myself** in the local culture, to try new foods, and to witness the creativity and vitality of the people who lived there. I felt a sense of excitement and wonder at the vibrant atmosphere and the people around me. However, I also appreciated the **moments of respite**, where I could step away from the noise and crowds and find a **quieter spot** to reflect and take it all in. Overall, the experience at the noisy street market was a memorable one, and I feel grateful to have had the opportunity to witness such a lively and dynamic part of my city's culture.
+
+---
+
+One place that I visited recently which was very noisy was a bustling outdoor vegetable market in the heart of the city. The market was located in a densely populated area, and it was a popular destination for locals to purchase fresh produce, seafood, and meats. As soon as I entered the market, I was immediately struck by the cacophony of sounds that surrounded me.
+
+The main activity I did at the market was browsing through the various stalls and vendors, admiring the colorful displays of fruits and vegetables, and selecting some items to buy. The market was crowded with people jostling for space, and the vendors were shouting out their prices and offerings to attract customers. Additionally, the market was situated in close proximity to a busy road, and the honking of cars and motorbikes added to the overall noise level.
+
+The reason why the market was so noisy was due to the volume of people and the high demand for fresh produce. The vendors were all competing with one another to sell their goods, which led to an increase in the volume of their voices. Additionally, the market was located in a densely populated area, and the constant flow of people in and out of the market contributed to the overall noise level.
+
+While the noise level at the market was high, I appreciated the vibrant and lively atmosphere that it created. The energy and vitality of the market were contagious, and I felt a sense of excitement and joy as I wandered through the stalls. The noise level was an indication of the popularity and success of the market, and it added to the overall experience of being there. However, I also appreciated the moments of respite, where I could step away from the noise and crowds and find a quieter spot to catch my breath. Overall, the experience of visiting the noisy vegetable market was a memorable one, and I was grateful for the opportunity to witness such a lively and dynamic aspect of the local culture.
+
+---
+
+# 空气不好的地方
+
+**Describe a place you went to where the air was not clean.**
+**You should say:**
+**Where the place was**
+**When and Why you went there**
+**Why the air was not clean**
+**And explain how you felt about being in a place where the air was not clean.**
+
+One place I visited recently where the air was not clean was my hometown, Liaocheng, Shandong, China. I went back to visit my family during the winter season, which is known for its **high levels of air pollution**. The air quality in Liaocheng has been a **persistent issue** due to its industrial activities, coal-fired power plants, and heavy traffic.
+
+During my stay in Liaocheng, I noticed that the air quality was poor, and there was a **visible haze that hung in the air**. The haze was due to the **high concentration of pollutants in the air**, including fine particulate matter, sulfur dioxide, and nitrogen oxides. The air pollution was so bad that I could feel a **burning sensation in my nose and throat**, and I had to wear a mask to protect myself from the harmful air.
+
+Being in a place with such poor air quality was a **disheartening experience**, and it made me concerned for the health and well-being of the people who live there year-round. It was a **stark reminder** of **the impact of industrialization and urbanization** on our environment and health. As I walked around the city, I could see the **thick layer of smog** that hung over the buildings, and it made me appreciate the clean air and natural surroundings of my current residence even more.
+
+In conclusion, my experience in my hometown **highlighted the importance of** clean air and the need to take action to reduce air pollution. While the situation in Liaocheng may seem overwhelming, I hope that more efforts can be made to address this issue and create a healthier and more sustainable environment for everyone.
+
+---
+
+# 收到很想要的东西
+
+**Describe a time when someone gave you something that you really wanted**
+**You should say:**
+**Who this person was**
+**What this person gave you**
+**Why you wanted this thing**
+**And explain how you felt when you got this thing**
+
+One memorable occasion when someone gave me something that I really wanted was when my parents surprised me with a new laptop for my birthday. It was a gift that I had been hoping for, as my old laptop was outdated and malfunctioning. My parents knew how important having a reliable laptop was to me, as I used it for both personal and academic purposes.
+
+My parents were the ones who gave me the new laptop, and I was completely taken aback when they presented it to me on my birthday. They had kept it a secret until the very last moment, and the surprise and joy that I felt upon receiving it was indescribable.
+
+The new laptop was a significant upgrade from my old one, with a faster processing speed, better graphics, and a larger storage capacity. It was exactly what I needed to keep up with my coursework and to pursue my personal interests. I had been saving up for a new laptop for months, and the fact that my parents had given it to me as a gift made it all the more special.
+
+When I received the new laptop, I felt a sense of gratitude and appreciation towards my parents. It was more than just a material possession; it was a symbol of their love and support for me. I was overwhelmed with emotion and felt incredibly fortunate to have such caring and generous parents.
+
+In conclusion, receiving the new laptop from my parents was a significant and meaningful experience for me. It was a gift that I had wanted and needed, and it represented their unwavering support and love for me. It is a memory that I will cherish for years to come.
+
+---
+
+# 投诉并收到满意的结果
+
+**Describe a time when you made a complaint about something and were pleased with the result**
+**You should say:**
+**Who you complained to**
+**What you complained about**
+**Is it easy to complain**
+**And explain why you were pleased with the result of the complaint**
+
+One experience that comes to mind when I made a complaint and was pleased with the result was when I had an issue with a faulty electronic device that I had purchased online. I had bought a new phone, and within a few days of using it, I realized that the camera was not functioning correctly. The pictures were coming out blurry and distorted, and it was affecting my ability to take clear and high-quality photos.
+
+I decided to make a complaint about the phone to the online retailer's customer service team. I spoke to a representative over the phone and explained the issue that I was having with the device. The representative was courteous and professional, and he immediately offered to replace the phone free of charge. He provided clear instructions on how to return the defective phone and assured me that the replacement phone would be sent out as soon as possible.
+
+The process of making the complaint was straightforward and hassle-free, which I found surprising. I had heard stories of customers having difficulty getting their complaints resolved, but this was not the case for me. The online retailer's customer service team was responsive and efficient in handling my complaint, which made the experience much more pleasant and stress-free.
+
+I was pleased with the result of the complaint because it was resolved in a timely and satisfactory manner. The replacement phone arrived within a week of my complaint, and it was in perfect working condition. The customer service team had exceeded my expectations by not only replacing the faulty phone but also by handling my complaint with professionalism and empathy.
+
+In conclusion, my experience with making a complaint about a faulty electronic device was a positive one. While it can be daunting to make a complaint, I found that the process was easy and that the customer service team was helpful and responsive. The result of the complaint was pleasing because it was resolved in a timely and satisfactory manner, which left me feeling satisfied and grateful.
+
+---
+
+# 骄傲的事
+
+**Describe something you achieved that you are proud of.**
+**You should say:**
+**What you achieved**
+**How you did it**
+**How difficult it was to do**
+**And explain why you are proud of this achievement.**
+
+One achievement that I am particularly proud of is winning an award in the MCM (Mathematical Contest in Modeling) competition, which is a challenging and prestigious international math competition that requires participants to solve complex and real-world mathematical problems.
+
+My team and I participated in the competition during our senior year of high school. We were tasked with developing a mathematical model that could predict the potential impact of a pandemic outbreak on a population. It was a daunting task, and we knew that it would require long hours of research, analysis, and collaboration.
+
+We approached the problem by dividing the work among the three of us and playing to each other's strengths. We spent several days conducting research, gathering data, and constructing a mathematical model that could simulate the spread of a pandemic. We also used statistical analysis to predict the impact of different intervention measures, such as social distancing and vaccination campaigns.
+
+The competition was challenging, and we faced many obstacles along the way. However, we persevered, and after several rounds of intense competition, we were thrilled to hear that our team had won an award.
+
+I am proud of this achievement because it required a great deal of hard work, dedication, and teamwork. It was a challenging and rewarding experience that pushed me to develop my mathematical skills and to work collaboratively with others. Winning an award in an international competition was an incredible accomplishment, and it gave me a sense of confidence and validation in my abilities.
+
+Moreover, the experience taught me the importance of working towards a goal and overcoming obstacles along the way. It instilled in me a sense of perseverance and resilience that has served me well in other areas of my life. Overall, winning an award in the MCM competition is an achievement that I am incredibly proud of, and it is a memory that I will cherish for years to come.
+
+---
+
+# 喜欢的演员
+
+**Describe an actor who you admire for playing a particular character in a film/movie.**
+**You should say:**
+**Who the actor is**
+**Where and when you watched this person**
+**What kind of character this person played**
+**And explain why you admire the actor for playing this character in a film/movie.**
+
+One actor that I admire for playing a particular character in a film is Jim Carrey for his portrayal of Truman Burbank in "The Truman Show". I first watched this movie several years ago, and I was immediately struck by Carrey's ability to bring the character of Truman to life.
+
+In the film, Truman is a man who has unknowingly lived his entire life in a fabricated reality TV show, where every aspect of his life is staged and monitored by a team of producers. Carrey's performance as Truman was nuanced and complex, capturing both the character's sense of confusion and his gradual awakening to the reality of his situation.
+
+What I admire most about Carrey's performance in "The Truman Show" is his ability to convey a wide range of emotions, from humor to heartbreak. He manages to make the audience care deeply about Truman's journey and his struggle to break free from the constraints of his fabricated life. Carrey's performance was authentic and moving, and it made the character of Truman feel like a real person, rather than just a fictional character.
+
+Furthermore, Carrey's performance in "The Truman Show" was a departure from his usual comedic roles, which highlighted his versatility as an actor. He demonstrated that he could handle dramatic roles with the same level of skill and expertise as his comedic ones, and this further elevated his reputation as an actor.
+
+In conclusion, Jim Carrey's portrayal of Truman Burbank in "The Truman Show" is a performance that I greatly admire. He brought depth and complexity to the character, and his ability to convey a wide range of emotions made the character feel real and relatable. His performance was a testament to his versatility as an actor, and it solidified his place as one of the most talented actors of his generation.
+
+---
+
+# 想短暂停留的城市
+
+**Describe a city you would like to visit for only a short time.**
+**You should say:**
+**Where the city is**
+**Who you would visit the city with**
+**What you would like to do there**
+**And explain why you would like to visit this city for only a short time.**
+
+One city that I would love to visit for only a short time is Chengdu, located in the Sichuan province of China. I would like to visit this city with a close friend who shares my passion for spicy food and travel.
+
+My main goal for visiting Chengdu would be to **indulge in the city's famous cuisine**, which is known for its **bold and spicy flavors**. I would love to sample authentic Sichuan dishes such as hotpot, kung pao chicken, and mapo tofu. In addition, I would also like to explore the city's vibrant street food scene, which I have heard is a must-try experience for any food lover.
+
+Apart from the food, I would also like to visit some of Chengdu's famous attractions, such as the Chengdu Research Base of Giant Panda Breeding, which is home to over 80 pandas. I would love to see these adorable creatures up close and learn more about conservation efforts to protect them. I would also like to explore the city's vibrant cultural scene by visiting museums, galleries, and local markets.
+
+The reason why I would like to visit Chengdu for only a short time is that I have a busy schedule, and I can only take a short break from work. However, I am determined to make the most of my time in the city and to experience as much of its unique culture and cuisine as possible. Chengdu is a city that has been on my bucket list for a long time, and I believe that even a short visit would be a memorable and enriching experience.
+
+In conclusion, I would love to visit Chengdu for its famous cuisine and cultural attractions, and I would like to do so with a close friend who shares my passion for travel and food. Although my visit may be short, I am confident that it would be a worthwhile and memorable experience.
+
+---
+
+# 想了解的历史
+
+**Describe a period in history that you would like to learn more about.**
+**You should say:**
+**When this period in history was**
+**How you first became interested in this period in history**
+**What you already know about this period in history**
+**And explain why you would like to learn more about this period.**	
+
+One period in history that I would like to learn more about is the Renaissance era in Europe, which spanned from the 14th to the 17th century. I first became interested in this period in history when I studied art history in college, and I was captivated by the beauty and innovation of the art produced during this time.
+
+The Renaissance was a time of great intellectual and artistic achievement, with advancements in fields such as science, literature, and philosophy. It was also marked by a renewed interest in classical Greek and Roman culture, which inspired many of the artistic and intellectual achievements of the era.
+
+Although I have some basic knowledge of the Renaissance, including the famous artists and writers of the time, I would like to learn more about the historical context and societal changes that shaped this period. I am particularly interested in understanding how the Renaissance impacted the development of modern society and culture.
+
+Furthermore, I would like to learn more about the political and economic systems of the time, as well as the role of religion in society. I am curious about how these factors contributed to the flourishing of artistic and intellectual achievement during this period.
+
+Overall, I would like to learn more about the Renaissance era because it was a time of great innovation, creativity, and cultural change. I believe that understanding this period in history would not only deepen my appreciation for the art and literature produced during this time, but also provide valuable insights into the development of modern society and culture.
+
+---
+
+# 想要一起学习的人
+
+**Describe a person you have met who you want to work/study with**
+**You should say:**
+**Who this person is**
+**How you met this person**
+**How long you have known him/her**
+**And explain why you want to work/study with him/her**
+
+One person that I met in the library and would love to study with is Sarah, a fellow student who I had the pleasure of meeting last semester. I was in the library studying for an exam when I noticed her working on a project that was related to my major. I introduced myself and we quickly struck up a conversation about our shared interests.
+
+Since then, I have had the opportunity to work with Sarah on several group projects and study sessions. I have found her to be an excellent collaborator, who is knowledgeable, focused, and dedicated to achieving her academic goals.
+
+I have known Sarah for about six months, and in that time, I have learned a great deal from her. Her approach to studying and learning is strategic and efficient, and she has a talent for breaking down complex concepts into manageable pieces. I have found that studying with her has helped me to deepen my understanding of course material and to improve my own study habits.
+
+I would love to study with Sarah because I believe that her skills and approach to learning align closely with my own goals and aspirations. I think that we would make an excellent team, and I am confident that studying with her would help me to achieve my academic goals.
+
+Moreover, I believe that studying with Sarah would be an enjoyable and rewarding experience. She is a positive and supportive presence in the classroom, and I always feel motivated and energized after working with her. I believe that she would make an excellent study partner, and I am excited about the possibility of working with her on future projects.
+
+In conclusion, Sarah is a person that I met in the library and would love to study with because of her dedication, focus, and excellent study skills. I believe that studying with her would be a valuable learning experience that would help me to achieve my academic goals, and I am excited about the possibility of working with her in the future.
+
+---
+
+# 享受的生活习惯
+
+**Describe a routine you have in your life that you enjoy.**
+**You should say:**
+**What the routine is**
+**When and why you started following this routine**
+**How easy it is to follow**
+**And explain why you enjoy having this routine in your daily life.**
+
+One routine that I have in my life that I truly enjoy is my morning exercise routine. Every morning, I wake up at 6am and spend about 30-45 minutes doing a variety of exercises, such as yoga, cardio, and weightlifting.
+
+I started this routine about two years ago when I realized that I needed to prioritize my health and fitness. I have always been active and enjoyed physical activity, but I found that I was neglecting my fitness in favor of other activities. I decided to make exercise a priority in my life and started following this routine as a way to ensure that I was getting daily exercise.
+
+At first, it was challenging to follow this routine because I was not used to waking up early and exercising before starting my day. However, as I continued to follow the routine, I found that it became easier and more enjoyable. Now, it has become a natural part of my daily routine, and I look forward to it each morning.
+
+I enjoy having this routine in my daily life for several reasons. Firstly, it helps me to feel energized and ready to tackle the day ahead. I find that exercising in the morning helps me to clear my mind and feel more focused, which is essential for me as I have a demanding job.
+
+Secondly, I enjoy the feeling of accomplishment that comes with completing my morning exercise routine. Starting the day off with a sense of achievement gives me a positive mindset and sets me up for success in other areas of my life.
+
+Finally, I appreciate the physical and mental benefits that come with regular exercise. I have noticed that since I started following this routine, I feel stronger and healthier, and I am better able to manage stress.
+
+In conclusion, my morning exercise routine is a routine that I enjoy in my daily life because it helps me to feel energized, accomplished, and healthier. Although it was challenging to start and maintain at first, it has become a natural part of my daily routine that I look forward to each morning.
+
+---
+
+# 想学的事
+
+**Describe something you would like to study in the future.**
+**You should say:**
+**What you would like to study**
+**Where you would like to study**
+**How easy or difficult it would be to study this**
+**And explain why you would like to study this in the future.**
+
+One thing that I would like to study in the future is hip hop dance. Although I do not have any prior dance experience, I have always **been drawn to** the expressive and dynamic movements of hip hop dance.
+
+Ideally, I would like to study hip hop dance at a local dance studio or community center that offers beginner-level classes. While I know that learning a new dance style will be a challenge, I am excited about the prospect of starting from scratch and building my skills over time.
+
+In terms of difficulty, I know that studying hip hop dance will require dedication and consistent practice. However, I am willing to put in the effort and embrace the challenges that come with learning a new skill. I believe that the physical and mental benefits of dancing will make the effort worthwhile, and I am excited about the potential for personal growth and development.
+
+Finally, I would like to study hip hop dance in the future because it represents an opportunity to explore a new art form and challenge myself in a creative way. I believe that dance has the power to connect people across cultures and to express emotions and ideas in a unique and powerful way. I am excited about the possibility of becoming a part of this community and developing my skills as a hip hop dancer.
+
+---
+
+# 住所附近的变化
+
+**Describe a recent development which has improved the area where you live**
+**You should say:**
+**What the new development is**
+**What was there before this development**
+**How long it took to complete**
+**And explain how it has improved the area where you live.**
+
+One recent development that has significantly improved the area where I live is the construction of a new public park. This park, which is located in the heart of my neighborhood, was created by repurposing an underutilized lot that had been vacant for many years.
+
+Before this development, the lot was an eyesore in the community, and many residents avoided it due to safety concerns. However, the new park has transformed this space into a vibrant and welcoming public gathering place. It features lush greenery, walking paths, a playground, and a small stage for performances and community events.
+
+The construction of this park took approximately two years to complete, but the result was well worth the wait. The park has become a hub of community activity and has brought people from all walks of life together. Families come to enjoy picnics and playtime with their children, while young adults use the space for outdoor fitness activities or socializing with friends.
+
+The park has also had a positive impact on the surrounding neighborhood. Property values have increased, and local businesses have seen an uptick in foot traffic. Additionally, the park has helped to build a sense of community pride and ownership, as residents come together to keep the space clean and well-maintained.
+
+Overall, the construction of this new public park has been a transformative development for the area where I live. It has repurposed an underutilized space into a beautiful and useful public gathering place, bringing together residents of all ages and backgrounds. I am grateful for this new addition to our community, and I believe it will continue to be a source of joy and connection for years to come.
+
+---
+
+# 常去的熟人之家
+
+**Describe the home of someone you know well and that you often visit**
+**You should say:**
+**Whose home it is**
+**How often you go there**
+**What it is like**
+**And explain how you feel about the home**
+
+The home of someone that I know well and often visit is my aunt's house. My family and I frequently visit her to play mahjong, especially during holidays when we have more free time. We typically visit her once or twice a week during summer and winter breaks, and we either drive there or ride our bikes together.
+
+My aunt's home is a cozy and inviting space. The living room is decorated with warm, earthy tones and comfortable furniture, which makes it a perfect place for us to play mahjong for hours on end. The kitchen is always filled with delicious aromas, as my aunt loves to cook and frequently prepares traditional Chinese dishes for us to enjoy.
+
+What I love most about my aunt's home is the warm and welcoming atmosphere. Every time we visit, we are greeted with smiles and laughter, and my aunt and her family always make us feel at home. Whether we are playing mahjong, chatting, or sharing a meal, there is always a sense of joy and camaraderie in the air.
+
+Additionally, my aunt's home is a place where I have created many fond memories. It's where I have celebrated holidays and birthdays, where I have bonded with my cousins, and where I have learned the game of mahjong. It holds a special place in my heart and is a space where I feel comfortable and happy.
+
+In conclusion, my aunt's home is a place that I often visit and feel incredibly grateful for. It's a cozy and inviting space that is filled with warmth, laughter, and delicious food. More importantly, it's a place where I have created many happy memories and where I always feel welcomed and loved.
+
+---
+
+# 发小
+
+**Describe a friend from your childhood**
+**You should say:**
+**Who he/she is**
+**Where and how you met each other**
+**What you often did together**
+**And explain what made you like him/her**
+
+One of my closest childhood friends is named Emily. We first met in our kindergarten class, and we quickly became inseparable. Over the years, we remained close friends and went through many important life events together.
+
+Emily and I used to spend most of our free time playing together, whether it was at the park or at each other's houses. We loved to play dress-up and put on plays, and we were always coming up with creative games and activities to keep ourselves entertained.
+
+What I loved most about Emily was her kind and gentle nature. She was always there for me when I needed someone to talk to or to play with, and she had a way of making me feel calm and at ease even in the most stressful situations. We shared many laughs and many tears over the years, but through it all, our friendship remained strong.
+
+As we grew older and went to different schools, we naturally drifted apart. However, we still keep in touch and occasionally catch up over the phone or on social media. I will always cherish the memories of our childhood together and the bond that we shared. Emily will always hold a special place in my heart, and I am grateful for the time that we spent growing up together.
+
+---
+
+# 分享
+
+**Describe something you had to share with others**
+**You should say:**
+**What it was**
+**Who you shared it with**
+**Why you had to share it with others**
+**And explain how you felt about it**
+
+One thing that I had to share with others was my laptop during my university years. As a student, I relied heavily on my laptop for research, writing assignments, and keeping up with course materials. However, during my first semester, my laptop broke down unexpectedly and I couldn't afford to purchase a new one right away.
+
+Fortunately, I had a group of supportive classmates who were willing to share their laptops with me. I remember feeling embarrassed and anxious about having to ask for help, but my classmates were incredibly kind and understanding. They offered to let me borrow their laptops during class and even outside of class, so that I could complete my work on time.
+
+Sharing my classmates' laptops made me feel grateful, but also somewhat uneasy. I was constantly worried about accidentally damaging someone else's property or not being able to return it on time. However, my classmates were so supportive and patient with me that I eventually felt more at ease.
+
+What I learned from this experience is that sharing can be a powerful way to build community and to support each other during difficult times. It taught me the importance of asking for help when I need it, and it showed me how powerful kindness and generosity can be. Overall, while sharing my classmates' laptops was initially a challenge, it ultimately brought me closer to my peers and helped me to succeed academically.
+
+---
+
+
+
+
+
