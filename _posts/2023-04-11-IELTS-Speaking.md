@@ -1005,15 +1005,15 @@ In conclusion, my experience in my hometown **highlighted the importance of** cl
 **Why you wanted this thing**
 **And explain how you felt when you got this thing**
 
-One memorable occasion when someone gave me something that I really wanted was when my parents surprised me with a new laptop for my birthday. It was a gift that I had been hoping for, as my old laptop was outdated and malfunctioning. My parents knew how important having a reliable laptop was to me, as I used it for both personal and academic purposes.
+One memorable occasion when someone gave me something that I really wanted was when my parents surprised me with a new laptop for my birthday. It was a gift that I had been hoping for, as my old laptop was **outdated and malfunctioning**. My parents knew how important having a reliable laptop was to me, as I used it **for both personal and academic purposes**.
 
-My parents were the ones who gave me the new laptop, and I was completely taken aback when they presented it to me on my birthday. They had kept it a secret until the very last moment, and the surprise and joy that I felt upon receiving it was indescribable.
+My parents were the ones who gave me the new laptop, and I was completely taken aback when they presented it to me on my birthday. They had kept it a secret until the very last moment, and the surprise and joy that I felt upon receiving it was **indescribable**.
 
-The new laptop was a significant upgrade from my old one, with a faster processing speed, better graphics, and a larger storage capacity. It was exactly what I needed to keep up with my coursework and to pursue my personal interests. I had been saving up for a new laptop for months, and the fact that my parents had given it to me as a gift made it all the more special.
+The new laptop was a significant upgrade from my old one, with a **faster processing speed**, better graphics, and a larger storage capacity. It was exactly what I needed to **keep up with my coursework** and to pursue my personal interests. I had been **saving up for** a new laptop for months, and the fact that my parents had given it to me as a gift made it all the more special.
 
-When I received the new laptop, I felt a sense of gratitude and appreciation towards my parents. It was more than just a material possession; it was a symbol of their love and support for me. I was overwhelmed with emotion and felt incredibly fortunate to have such caring and generous parents.
+When I received the new laptop, I felt **a sense of gratitude and appreciation** towards my parents. It was more than just a material possession; it was **a symbol of their love and support for me**. I was overwhelmed with emotion and felt incredibly fortunate to have such caring and generous parents.
 
-In conclusion, receiving the new laptop from my parents was a significant and meaningful experience for me. It was a gift that I had wanted and needed, and it represented their unwavering support and love for me. It is a memory that I will cherish for years to come.
+In conclusion, receiving the new laptop from my parents was a significant and meaningful experience for me. It was a gift that I had wanted and needed, and it represented their **unwavering support and love for me**. It is a memory that I will cherish for years to come.
 
 ---
 
@@ -1026,15 +1026,15 @@ In conclusion, receiving the new laptop from my parents was a significant and me
 **Is it easy to complain**
 **And explain why you were pleased with the result of the complaint**
 
-One experience that comes to mind when I made a complaint and was pleased with the result was when I had an issue with a faulty electronic device that I had purchased online. I had bought a new phone, and within a few days of using it, I realized that the camera was not functioning correctly. The pictures were coming out blurry and distorted, and it was affecting my ability to take clear and high-quality photos.
+One experience that comes to mind when I made a complaint and was pleased with the result was when I had an issue with a faulty electronic device that I had purchased online. I had bought a new phone, and within a few days of using it, I realized that the camera was not functioning correctly. The pictures were **coming out blurry and distorted**, and it was affecting my ability to take clear and high-quality photos.
 
-I decided to make a complaint about the phone to the online retailer's customer service team. I spoke to a representative over the phone and explained the issue that I was having with the device. The representative was courteous and professional, and he immediately offered to replace the phone free of charge. He provided clear instructions on how to return the defective phone and assured me that the replacement phone would be sent out as soon as possible.
+I decided to make a complaint about the phone to the **online retailer's customer service team**. I spoke to a representative over the phone and explained the issue that I was having with the device. The representative was **courteous** and professional, and he immediately offered to replace the phone **free of charge**. He provided clear instructions on how to return the defective phone and assured me that the replacement phone would be sent out as soon as possible.
 
-The process of making the complaint was straightforward and hassle-free, which I found surprising. I had heard stories of customers having difficulty getting their complaints resolved, but this was not the case for me. The online retailer's customer service team was responsive and efficient in handling my complaint, which made the experience much more pleasant and stress-free.
+The process of making the complaint was straightforward and **hassle-free**, which I found surprising. I had heard stories of customers having difficulty **getting their complaints resolved**, but this was not the case for me. The online retailer's customer service team was **responsive and efficient** in handling my complaint, which made the experience much more pleasant and stress-free.
 
-I was pleased with the result of the complaint because it was resolved in a timely and satisfactory manner. The replacement phone arrived within a week of my complaint, and it was in perfect working condition. The customer service team had exceeded my expectations by not only replacing the faulty phone but also by handling my complaint with professionalism and empathy.
+I was pleased with the result of the complaint because it was resolved in a **timely and satisfactory manner**. The replacement phone arrived within a week of my complaint, and it was in perfect working condition. The customer service team had **exceeded my expectations** by not only replacing the faulty phone but also by handling my complaint with professionalism and empathy.
 
-In conclusion, my experience with making a complaint about a faulty electronic device was a positive one. While it can be daunting to make a complaint, I found that the process was easy and that the customer service team was helpful and responsive. The result of the complaint was pleasing because it was resolved in a timely and satisfactory manner, which left me feeling satisfied and grateful.
+In conclusion, my experience with making a complaint about a faulty electronic device was a positive one. While it can be daunting to make a complaint, I found that the process was easy and that the customer service team was **helpful and responsive**. The result of the complaint was pleasing because it was resolved in a timely and satisfactory manner, which left me feeling satisfied and grateful.
 
 ---
 
@@ -1047,15 +1047,15 @@ In conclusion, my experience with making a complaint about a faulty electronic d
 **How difficult it was to do**
 **And explain why you are proud of this achievement.**
 
-One achievement that I am particularly proud of is winning an award in the MCM (Mathematical Contest in Modeling) competition, which is a challenging and prestigious international math competition that requires participants to solve complex and real-world mathematical problems.
+One achievement that I am particularly proud of is winning an award in the MCM (Mathematical Contest in Modeling) competition, which is a challenging and prestigious international math competition that requires participants to solve **complex and real-world mathematical problems**.
 
-My team and I participated in the competition during our senior year of high school. We were tasked with developing a mathematical model that could predict the potential impact of a pandemic outbreak on a population. It was a daunting task, and we knew that it would require long hours of research, analysis, and collaboration.
+My team and I participated in the competition during our senior year of high school. We were tasked with developing a mathematical model that could predict the potential impact of a pandemic outbreak on a population. It was a daunting task, and we knew that it would require **long hours of research, analysis, and collaboration**.
 
 We approached the problem by dividing the work among the three of us and playing to each other's strengths. We spent several days conducting research, gathering data, and constructing a mathematical model that could simulate the spread of a pandemic. We also used statistical analysis to predict the impact of different intervention measures, such as social distancing and vaccination campaigns.
 
-The competition was challenging, and we faced many obstacles along the way. However, we persevered, and after several rounds of intense competition, we were thrilled to hear that our team had won an award.
+The competition was challenging, and we **faced many obstacles along the way**. However, we **persevered**, and after several rounds of intense competition, we **were thrilled to** hear that our team had won an award.
 
-I am proud of this achievement because it required a great deal of hard work, dedication, and teamwork. It was a challenging and rewarding experience that pushed me to develop my mathematical skills and to work collaboratively with others. Winning an award in an international competition was an incredible accomplishment, and it gave me a sense of confidence and validation in my abilities.
+I am proud of this achievement because it required **a great deal of hard work, dedication, and teamwork**. It was a challenging and rewarding experience that pushed me to develop my mathematical skills and to work collaboratively with others. Winning an award in an international competition was an incredible accomplishment, and it **gave me a sense of confidence and validation** in my abilities.
 
 Moreover, the experience taught me the importance of working towards a goal and overcoming obstacles along the way. It instilled in me a sense of perseverance and resilience that has served me well in other areas of my life. Overall, winning an award in the MCM competition is an achievement that I am incredibly proud of, and it is a memory that I will cherish for years to come.
 
@@ -1070,11 +1070,11 @@ Moreover, the experience taught me the importance of working towards a goal and 
 **What kind of character this person played**
 **And explain why you admire the actor for playing this character in a film/movie.**
 
-One actor that I admire for playing a particular character in a film is Jim Carrey for his portrayal of Truman Burbank in "The Truman Show". I first watched this movie several years ago, and I was immediately struck by Carrey's ability to bring the character of Truman to life.
+One actor that I admire for playing a particular character in a film is Jim Carrey for his **portrayal** of Truman Burbank in "The Truman Show". I first watched this movie several years ago, and I was immediately **struck by** Carrey's ability to **bring the character of Truman to life.**
 
-In the film, Truman is a man who has unknowingly lived his entire life in a fabricated reality TV show, where every aspect of his life is staged and monitored by a team of producers. Carrey's performance as Truman was nuanced and complex, capturing both the character's sense of confusion and his gradual awakening to the reality of his situation.
+In the film, Truman is a man who has unknowingly lived his entire life in a **fabricated reality TV show**, where every aspect of his life is **staged and monitored** by a team of producers. Carrey's performance as Truman was **nuanced and complex,** capturing both the character's sense of confusion and his gradual awakening to the reality of his situation.
 
-What I admire most about Carrey's performance in "The Truman Show" is his ability to convey a wide range of emotions, from humor to heartbreak. He manages to make the audience care deeply about Truman's journey and his struggle to break free from the constraints of his fabricated life. Carrey's performance was authentic and moving, and it made the character of Truman feel like a real person, rather than just a fictional character.
+What I admire most about Carrey's performance in "The Truman Show" is his ability to **convey a wide range of emotions**, from humor to heartbreak. He manages to make the audience care deeply about Truman's journey and his struggle to break free from the constraints of his fabricated life. Carrey's performance was authentic and moving, and it made the character of Truman feel like a real person, rather than just a fictional character.
 
 Furthermore, Carrey's performance in "The Truman Show" was a departure from his usual comedic roles, which highlighted his versatility as an actor. He demonstrated that he could handle dramatic roles with the same level of skill and expertise as his comedic ones, and this further elevated his reputation as an actor.
 
@@ -1112,13 +1112,13 @@ In conclusion, I would love to visit Chengdu for its famous cuisine and cultural
 **What you already know about this period in history**
 **And explain why you would like to learn more about this period.**	
 
-One period in history that I would like to learn more about is the Renaissance era in Europe, which spanned from the 14th to the 17th century. I first became interested in this period in history when I studied art history in college, and I was captivated by the beauty and innovation of the art produced during this time.
+One period in history that I would like to learn more about is the Renaissance era in Europe, which **spanned from** the 14th to the 17th century. I first became interested in this period in history when I studied art history in college, and I was **captivated by** the beauty and innovation of the art produced during this time.
 
-The Renaissance was a time of great intellectual and artistic achievement, with advancements in fields such as science, literature, and philosophy. It was also marked by a renewed interest in classical Greek and Roman culture, which inspired many of the artistic and intellectual achievements of the era.
+The Renaissance was a time **of great intellectual and artistic achievement**, with advancements in fields such as science, literature, and philosophy. It was also marked by a renewed interest in classical Greek and Roman culture, which inspired many of the artistic and intellectual achievements of the era.
 
-Although I have some basic knowledge of the Renaissance, including the famous artists and writers of the time, I would like to learn more about the historical context and societal changes that shaped this period. I am particularly interested in understanding how the Renaissance impacted the development of modern society and culture.
+Although I have some basic knowledge of the Renaissance, including the famous artists and writers of the time, I would like to learn more about the **historical context and societal changes** that shaped this period. I am particularly interested in understanding how the Renaissance impacted the development of modern society and culture.
 
-Furthermore, I would like to learn more about the political and economic systems of the time, as well as the role of religion in society. I am curious about how these factors contributed to the flourishing of artistic and intellectual achievement during this period.
+Furthermore, I would like to learn more about the political and economic systems of the time, as well as the role of religion in society. I am curious about how these factors contributed to the **flourishing of artistic and intellectual achievement** during this period.
 
 Overall, I would like to learn more about the Renaissance era because it was a time of great innovation, creativity, and cultural change. I believe that understanding this period in history would not only deepen my appreciation for the art and literature produced during this time, but also provide valuable insights into the development of modern society and culture.
 
@@ -1133,17 +1133,17 @@ Overall, I would like to learn more about the Renaissance era because it was a t
 **How long you have known him/her**
 **And explain why you want to work/study with him/her**
 
-One person that I met in the library and would love to study with is Sarah, a fellow student who I had the pleasure of meeting last semester. I was in the library studying for an exam when I noticed her working on a project that was related to my major. I introduced myself and we quickly struck up a conversation about our shared interests.
+One person that I met in the library and would love to study with is Sarah, a fellow student who I had the pleasure of meeting last semester. I was in the library studying for an exam when I noticed her working on a project that was related to my major. I introduced myself and we quickly **struck up a conversation** about our shared interests.
 
 Since then, I have had the opportunity to work with Sarah on several group projects and study sessions. I have found her to be an excellent collaborator, who is knowledgeable, focused, and dedicated to achieving her academic goals.
 
-I have known Sarah for about six months, and in that time, I have learned a great deal from her. Her approach to studying and learning is strategic and efficient, and she has a talent for breaking down complex concepts into manageable pieces. I have found that studying with her has helped me to deepen my understanding of course material and to improve my own study habits.
+I have known Sarah for about six months, and in that time, I have **learned a great deal from her**. Her **approach** to studying and learning is **strategic and efficient**, and she has a talent for **breaking down complex concepts into manageable pieces**. I have found that studying with her has helped me to **deepen my understanding of** course material and to improve my own study habits.
 
-I would love to study with Sarah because I believe that her skills and approach to learning align closely with my own goals and aspirations. I think that we would make an excellent team, and I am confident that studying with her would help me to achieve my academic goals.
+I would love to study with Sarah because I believe that her skills and approach to learning **align closely with my own goals and aspirations**. I think that we would make an excellent team, and I am confident that studying with her would help me to achieve my academic goals.
 
-Moreover, I believe that studying with Sarah would be an enjoyable and rewarding experience. She is a positive and supportive presence in the classroom, and I always feel motivated and energized after working with her. I believe that she would make an excellent study partner, and I am excited about the possibility of working with her on future projects.
+Moreover, I believe that studying with Sarah would be an enjoyable and rewarding experience. She is a positive and supportive presence in the classroom, and I always feel **motivated and energized** after working with her. I believe that she would make an excellent study partner, and I am excited about the **possibility of working with her on future projects**.
 
-In conclusion, Sarah is a person that I met in the library and would love to study with because of her dedication, focus, and excellent study skills. I believe that studying with her would be a valuable learning experience that would help me to achieve my academic goals, and I am excited about the possibility of working with her in the future.
+In conclusion, Sarah is a person that I met in the library and would love to study with because of her **dedication, focus, and excellent study skills**. I believe that studying with her would be a valuable learning experience that would help me to achieve my academic goals, and I am excited about the possibility of working with her in the future.
 
 ---
 
@@ -1156,19 +1156,19 @@ In conclusion, Sarah is a person that I met in the library and would love to stu
 **How easy it is to follow**
 **And explain why you enjoy having this routine in your daily life.**
 
-One routine that I have in my life that I truly enjoy is my morning exercise routine. Every morning, I wake up at 6am and spend about 30-45 minutes doing a variety of exercises, such as yoga, cardio, and weightlifting.
+One routine that I have in my life that I truly enjoy is my morning exercise routine. Every morning, I wake up at 6am and spend about 30-45 minutes doing **a variety of exercises**, such as yoga, cardio, and weightlifting.
 
-I started this routine about two years ago when I realized that I needed to prioritize my health and fitness. I have always been active and enjoyed physical activity, but I found that I was neglecting my fitness in favor of other activities. I decided to make exercise a priority in my life and started following this routine as a way to ensure that I was getting daily exercise.
+I started this routine about two years ago when I realized that I needed to **prioritize my health and fitness**. I have always been active and enjoyed physical activity, but I found that I was **neglecting my fitness** in favor of other activities. I decided to **make exercise a priority** in my life and started following this routine as a way to ensure that I was getting daily exercise.
 
-At first, it was challenging to follow this routine because I was not used to waking up early and exercising before starting my day. However, as I continued to follow the routine, I found that it became easier and more enjoyable. Now, it has become a natural part of my daily routine, and I look forward to it each morning.
+**At first**, it was challenging to **follow this routine** because I was not **used to waking** up early and exercising before starting my day. However, as I continued to follow the routine, I found that it became **easier and more enjoyable**. Now, it has become a natural part of my daily routine, and I look forward to it each morning.
 
-I enjoy having this routine in my daily life for several reasons. Firstly, it helps me to feel energized and ready to tackle the day ahead. I find that exercising in the morning helps me to clear my mind and feel more focused, which is essential for me as I have a demanding job.
+I enjoy having this routine in my daily life for several reasons. Firstly, it helps me to feel energized and **ready to tackle the day ahead**. I find that exercising in the morning helps me to **clear my mind and feel more focused**, which is essential for me as I have a demanding job.
 
-Secondly, I enjoy the feeling of accomplishment that comes with completing my morning exercise routine. Starting the day off with a sense of achievement gives me a positive mindset and sets me up for success in other areas of my life.
+Secondly, I enjoy the feeling of accomplishment that comes with completing my morning exercise routine. **Starting the day off with a sense of achievement** gives me a positive mindset and sets me up for success in other areas of my life.
 
 Finally, I appreciate the physical and mental benefits that come with regular exercise. I have noticed that since I started following this routine, I feel stronger and healthier, and I am better able to manage stress.
 
-In conclusion, my morning exercise routine is a routine that I enjoy in my daily life because it helps me to feel energized, accomplished, and healthier. Although it was challenging to start and maintain at first, it has become a natural part of my daily routine that I look forward to each morning.
+In conclusion, my morning exercise routine is a routine that I enjoy in my daily life because it helps me to feel **energized, accomplished, and healthier**. Although it was challenging to start and maintain at first, it has become a natural part of my daily routine that I look forward to each morning.
 
 ---
 
@@ -1181,13 +1181,13 @@ In conclusion, my morning exercise routine is a routine that I enjoy in my daily
 **How easy or difficult it would be to study this**
 **And explain why you would like to study this in the future.**
 
-One thing that I would like to study in the future is hip hop dance. Although I do not have any prior dance experience, I have always **been drawn to** the expressive and dynamic movements of hip hop dance.
+One thing that I would like to study in the future is hip hop dance. Although I do not have any **prior dance experience**, I have always **been drawn to** the expressive and dynamic movements of hip hop dance.
 
-Ideally, I would like to study hip hop dance at a local dance studio or community center that offers beginner-level classes. While I know that learning a new dance style will be a challenge, I am excited about the prospect of starting from scratch and building my skills over time.
+Ideally, I would like to study hip hop dance at a local dance studio or community center that offers **beginner-level classes**. While I know that learning a new dance style will be a challenge, I am excited about the **prospect of starting from scratch and building my skills over time**.
 
-In terms of difficulty, I know that studying hip hop dance will require dedication and consistent practice. However, I am willing to put in the effort and embrace the challenges that come with learning a new skill. I believe that the physical and mental benefits of dancing will make the effort worthwhile, and I am excited about the potential for personal growth and development.
+In terms of difficulty, I know that studying hip hop dance will require **dedication and consistent practice**. However, I am willing to **put in the effort** and **embrace the challenges** that come with learning a new skill. I believe that the physical and mental benefits of dancing will **make the effort worthwhile**, and I am excited about the potential for personal growth and development.
 
-Finally, I would like to study hip hop dance in the future because it represents an opportunity to explore a new art form and challenge myself in a creative way. I believe that dance has the power to connect people across cultures and to express emotions and ideas in a unique and powerful way. I am excited about the possibility of becoming a part of this community and developing my skills as a hip hop dancer.
+Finally, I would like to study hip hop dance in the future because it represents an **opportunity to explore a new art form** and **challenge myself in a creative way**. I believe that dance has the power to connect people across cultures and to express emotions and ideas in a unique and powerful way. I am excited about the possibility of becoming a part of this community and developing my skills as a hip hop dancer.
 
 ---
 
@@ -1200,13 +1200,13 @@ Finally, I would like to study hip hop dance in the future because it represents
 **How long it took to complete**
 **And explain how it has improved the area where you live.**
 
-One recent development that has significantly improved the area where I live is the construction of a new public park. This park, which is located in the heart of my neighborhood, was created by repurposing an underutilized lot that had been vacant for many years.
+One recent development that has significantly improved the area where I live is the **construction of a new public park.** This park, which is located in the heart of my neighborhood, was created by **repurposing an underutilized lot** that had been vacant for many years.
 
-Before this development, the lot was an eyesore in the community, and many residents avoided it due to safety concerns. However, the new park has transformed this space into a vibrant and welcoming public gathering place. It features lush greenery, walking paths, a playground, and a small stage for performances and community events.
+Before this development, the lot was an **eyesore** in the community, and many residents avoided it **due to safety concerns**. However, the new park has transformed this space into **a vibrant and welcoming public gathering place**. It features **lush greenery**, walking paths, a playground, and a small stage for performances and community events.
 
-The construction of this park took approximately two years to complete, but the result was well worth the wait. The park has become a hub of community activity and has brought people from all walks of life together. Families come to enjoy picnics and playtime with their children, while young adults use the space for outdoor fitness activities or socializing with friends.
+The construction of this park took approximately two years to complete, but the **result was well worth the wait**. The park has become **a hub of community activity** and has **brought people from all walks of life together**. Families come to enjoy picnics and playtime with their children, while young adults use the space for outdoor fitness activities or socializing with friends.
 
-The park has also had a positive impact on the surrounding neighborhood. Property values have increased, and local businesses have seen an uptick in foot traffic. Additionally, the park has helped to build a sense of community pride and ownership, as residents come together to keep the space clean and well-maintained.
+The park has also had a positive impact on the surrounding neighborhood. Property values have increased, and **local businesses have seen an uptick in foot traffic**. Additionally, the park has helped to **build a sense of community pride and ownership**, as residents come together to keep the space clean and well-maintained.
 
 Overall, the construction of this new public park has been a transformative development for the area where I live. It has repurposed an underutilized space into a beautiful and useful public gathering place, bringing together residents of all ages and backgrounds. I am grateful for this new addition to our community, and I believe it will continue to be a source of joy and connection for years to come.
 
@@ -1223,11 +1223,11 @@ Overall, the construction of this new public park has been a transformative deve
 
 The home of someone that I know well and often visit is my aunt's house. My family and I frequently visit her to play mahjong, especially during holidays when we have more free time. We typically visit her once or twice a week during summer and winter breaks, and we either drive there or ride our bikes together.
 
-My aunt's home is a cozy and inviting space. The living room is decorated with warm, earthy tones and comfortable furniture, which makes it a perfect place for us to play mahjong for hours on end. The kitchen is always filled with delicious aromas, as my aunt loves to cook and frequently prepares traditional Chinese dishes for us to enjoy.
+My aunt's home is a **cozy and inviting space.** The living room is decorated with **warm, earthy tones** and comfortable furniture, which makes it a perfect place for us to play mahjong for hours **on end**. The kitchen is always **filled with delicious aromas**, as my aunt loves to cook and frequently prepares traditional Chinese dishes for us to enjoy.
 
-What I love most about my aunt's home is the warm and welcoming atmosphere. Every time we visit, we are greeted with smiles and laughter, and my aunt and her family always make us feel at home. Whether we are playing mahjong, chatting, or sharing a meal, there is always a sense of joy and camaraderie in the air.
+What I love most about my aunt's home is the **warm and welcoming atmosphere.** Every time we visit, we are greeted with smiles and laughter, and my aunt and her family always make us feel at home. Whether we are playing mahjong, chatting, or sharing a meal, there is always **a sense of joy and camaraderie** in the air.
 
-Additionally, my aunt's home is a place where I have created many fond memories. It's where I have celebrated holidays and birthdays, where I have bonded with my cousins, and where I have learned the game of mahjong. It holds a special place in my heart and is a space where I feel comfortable and happy.
+Additionally, my aunt's home is a place where I have created many **fond memories**. It's where I have celebrated holidays and birthdays, where I have **bonded with my cousins**, and where I have learned the game of mahjong. It holds a special place in my heart and is a space where I feel comfortable and happy.
 
 In conclusion, my aunt's home is a place that I often visit and feel incredibly grateful for. It's a cozy and inviting space that is filled with warmth, laughter, and delicious food. More importantly, it's a place where I have created many happy memories and where I always feel welcomed and loved.
 
@@ -1242,13 +1242,13 @@ In conclusion, my aunt's home is a place that I often visit and feel incredibly 
 **What you often did together**
 **And explain what made you like him/her**
 
-One of my closest childhood friends is named Emily. We first met in our kindergarten class, and we quickly became inseparable. Over the years, we remained close friends and went through many important life events together.
+One of my closest childhood friends is named Emily. We first met in our kindergarten class, and we quickly became **inseparable**. Over the years, we remained close friends and went through many important life events together.
 
-Emily and I used to spend most of our free time playing together, whether it was at the park or at each other's houses. We loved to play dress-up and put on plays, and we were always coming up with creative games and activities to keep ourselves entertained.
+Emily and I used to spend most of our free time playing together, whether it was at the park or at each other's houses. We loved to **play dress-up and put on plays**, and we were always **coming up with creative games and activities** to keep ourselves entertained.
 
-What I loved most about Emily was her kind and gentle nature. She was always there for me when I needed someone to talk to or to play with, and she had a way of making me feel calm and at ease even in the most stressful situations. We shared many laughs and many tears over the years, but through it all, our friendship remained strong.
+What I loved most about Emily was her kind and gentle nature. She was always there for me when I needed someone to talk to or to play with, and she had a way of **making me feel calm and at ease** even in the most stressful situations. We shared many laughs and many tears over the years, but through it all, our friendship remained strong.
 
-As we grew older and went to different schools, we naturally drifted apart. However, we still keep in touch and occasionally catch up over the phone or on social media. I will always cherish the memories of our childhood together and the bond that we shared. Emily will always hold a special place in my heart, and I am grateful for the time that we spent growing up together.
+As we grew older and went to different schools, we naturally **drifted apart**. However, we still keep in touch and occasionally **catch up over the phone or on social media**. I will always cherish the memories of our childhood together and the bond that we shared. Emily will always **hold a special place in my heart**, and I am grateful for the time that we spent growing up together.
 
 ---
 
@@ -1271,7 +1271,137 @@ What I learned from this experience is that sharing can be a powerful way to bui
 
 ---
 
+# 户外活动
 
+**Describe an outdoor activity you did in a new place recently**
+**You should say:**
+**What the activity was**
+**Where and when you went there**
+**Whether you asked for help in the activity**
+**And explain why you attended the activity**
+
+Recently, I had the fantastic opportunity to participate in an **invigorating** outdoor activity, hiking at the magnificent Laoshan Mountain, located in the eastern coastal city of Qingdao in China. This memorable adventure took place last month, during the spring season when the weather was perfect for such an **endeavor**.
+
+The activity I **embarked on** was a day-long hiking trip to explore the **breathtaking beauty** and natural wonders of Laoshan Mountain. Laoshan is well-known for its **stunning landscapes**, waterfalls, and ancient Taoist temples, which made the hike not only physically challenging but also **a culturally enriching experience**. My goal was to reach the peak and **revel in the picturesque view** of the surrounding areas.
+
+I went on this trip with a group of like-minded hiking enthusiasts, and we decided to hire a local guide to help us navigate the trails and provide insights into the historical and cultural aspects of the mountain. Our guide was extremely knowledgeable and approachable, which made the journey even more enjoyable.
+
+The reason why I attended this activity was manifold. Firstly, I have always been **passionate about** outdoor pursuits, and hiking has been on the top of my list. It offers an opportunity to connect with nature, breathe fresh air, and stay fit. Secondly, I wanted to challenge myself physically and mentally by undertaking a demanding hike in a new environment. Lastly, I **was intrigued by** the cultural and historical elements associated with Laoshan Mountain and was eager to learn more about them.
+
+Overall, the entire experience was **exhilarating** and educational, leaving me with a profound appreciation for the natural beauty and rich cultural heritage that Laoshan Mountain has to offer. I would highly recommend this activity to anyone seeking an unforgettable outdoor adventure.
+
+---
+
+# 激励做有趣的事的人
+
+**Describe a person who inspired you to do something interesting**
+**You should say:**
+**Who he/she is**
+**How you knew him/her**
+**What interesting thing you did**
+**And explain how he/she inspired you to do something interesting**
+
+I would like to talk about a close friend of mine, Li, who has inspired me to do something interesting and truly valuable. Li and I have been friends since middle school, and we've shared countless memories throughout the years. What I admire most about Li is her **unwavering enthusiasm** for life and her dedication to helping others.
+
+It was during our high school years that Li introduced me to a volunteer program in our city, which aimed at providing **after-school tutoring** and assistance to **underprivileged children**. She had been volunteering there for a few months and spoke highly of her experience. Her stories about the impact she was making in these children's lives caught my attention, and I was eager to be a part of this initiative.
+
+With Li's encouragement, I decided to join the program as a volunteer tutor. We spent our weekends tutoring children in various subjects, such as math, Chinese, and English. The experience was incredibly rewarding, as we were able to see firsthand how our efforts were helping these children overcome their academic challenges and gain confidence in their abilities.
+
+Li's passion for helping others and her commitment to this cause were truly inspiring. She always went the extra mile, making sure that each child received the support and attention they needed. Her dedication and genuine care for the well-being of these children had a profound impact on me, and I found myself becoming more empathetic and compassionate.
+
+In conclusion, my friend Li inspired me to participate in this meaningful and interesting activity, which has left an indelible mark on my life. Her selflessness and devotion to making a positive difference in the lives of others have truly shaped my values and encouraged me to be more proactive in helping those in need. I feel incredibly grateful for having such a caring and inspiring friend in my life, and I believe that her influence will continue to guide me throughout my future endeavors.
+
+---
+
+# 决议等待
+
+**Describe a time you made a decision to wait for something**
+**You should say:**
+**When it happened**
+**What you waited for**
+**Why you made the decision**
+**And explain how you felt while waiting**
+
+I would like to share an experience where I made the decision to wait for something that was truly important to me. This event took place a couple of years ago when I was in the process of applying for universities to pursue my undergraduate degree.
+
+During that time, I had spent countless hours researching various universities and programs to find the perfect fit for my academic interests and future career aspirations. After much deliberation, I finally decided to apply for a highly competitive scholarship program at a prestigious university, which, if awarded, would cover my entire tuition and living expenses.
+
+The reason I made the decision to wait for the results of this scholarship application was that it represented a life-changing opportunity for me. I was aware that the chances of being selected were slim, but I felt that the potential rewards far outweighed the risks. Moreover, I had invested a significant amount of time and effort into preparing my application, and I was determined to see it through to the end.
+
+During the waiting period, I experienced a rollercoaster of emotions. At times, I felt hopeful and optimistic about my prospects, while at other moments, I was plagued with self-doubt and anxiety. The uncertainty of the outcome made the waiting process quite challenging, and I found myself constantly checking my email and the university's website for updates.
+
+In the end, my patience and perseverance paid off when I received the wonderful news that I had been awarded the scholarship. The elation and relief I felt at that moment were indescribable, and the entire experience taught me the value of being patient and persistent in the pursuit of my goals.
+
+In conclusion, making the decision to wait for the outcome of my scholarship application was a significant and impactful moment in my life. It tested my resolve and taught me the importance of having faith in myself and my abilities. The waiting period was filled with anticipation and anxiety, but ultimately, the reward was well worth the wait.
+
+---
+
+I would like to share an experience where I made the decision to wait for something that was of great personal significance. This event occurred a few years ago when I was planning to purchase my first smartphone.
+
+At that time, I had been saving up money for months in order to buy a high-quality smartphone with advanced features. While I had enough money to purchase a decent phone, I had my eyes set on a specific model that was going to be released soon. This upcoming model had all the features I was looking for, such as an excellent camera, a powerful processor, and a sleek design.
+
+The reason I made the decision to wait for the release of this new smartphone was that I believed it would be worth the wait and the additional cost. I knew that if I were to settle for a cheaper model, I would likely regret it in the long run, as I would not be entirely satisfied with its performance and capabilities.
+
+During the waiting period, I experienced a mix of excitement and impatience. I eagerly followed the news and updates about the upcoming smartphone, and I found myself discussing its features and potential with my friends and family. At times, the anticipation was overwhelming, and I questioned whether I had made the right decision to wait.
+
+Finally, the release date arrived, and I was able to purchase the smartphone I had been waiting for. The satisfaction I felt when I held the device in my hands and explored its features was immense, and I knew that my decision to wait had been the right one. The phone lived up to my expectations and served me well for many years.
+
+In conclusion, the decision to wait for the release of my desired smartphone was a valuable experience that taught me the importance of patience and persistence. The waiting period was filled with anticipation, but ultimately, the reward of owning the perfect device for my needs made the wait worthwhile.
+
+---
+
+# 克服困难并成功
+
+**Describe a difficult thing you did and succeeded**
+**You should say:**
+**What is was**
+**How you overcame the difficulties**
+**Whether you got help**
+**And explain how you felt after you succeeded**
+
+I would like to share an experience where I faced and overcame an academic difficulty, which ultimately led to my success. This challenge arose during my second year of university when I enrolled in an advanced mathematics course, which was notorious for its complexity and high failure rate.
+
+The course was particularly challenging due to the advanced mathematical concepts and techniques it covered. Despite my interest in the subject and my dedication to my studies, I found myself struggling to grasp these concepts and perform well on the assignments and exams. I realized that in order to succeed in this course, I needed to adopt a new approach to learning and problem-solving.
+
+To overcome these difficulties, I decided to develop a comprehensive study plan that would allow me to allocate sufficient time and resources to master the course material. This involved setting aside dedicated study hours, utilizing online resources, and engaging in active learning techniques, such as summarizing information in my own words and solving practice problems.
+
+In addition to these self-directed strategies, I sought help from various sources. I attended the professor's office hours to clarify concepts and address any questions I had. I also joined a study group with fellow students, where we exchanged ideas, worked on problems collaboratively, and provided support and encouragement to one another.
+
+Through hard work, persistence, and the assistance of my professor and peers, I was eventually able to grasp the complex mathematical concepts and improve my performance in the course. When I received my final grade, I was elated to discover that I had not only passed the course but also achieved a high score.
+
+The sense of accomplishment I felt after succeeding in this difficult course was immense. It not only boosted my confidence in my abilities but also reinforced the importance of determination, resourcefulness, and seeking help when needed. This experience has had a lasting impact on my approach to learning and problem-solving, and I am grateful for the valuable lessons I gained through overcoming this academic challenge.
+
+---
+
+# 漂亮物品
+
+**Describe an object that you think is beautiful**
+**You should say:**
+**What it is**
+**Where you saw it**
+**What it looks like**
+**And explain why you think it is beautiful**
+
+I would like to describe an exquisite object that I consider to be truly beautiful – a delicate bookmark gifted to me by a dear friend. This bookmark holds a special place in my heart, not only because of its aesthetic appeal but also due to the sentimental value it carries.
+
+The first time I saw this bookmark was when my friend presented it to me on my birthday. Knowing my passion for reading, she had carefully selected this gift to cater to my interests and to add a touch of elegance to my reading experience.
+
+The bookmark itself is a work of art. It is made of high-quality metal, featuring intricate patterns and designs inspired by traditional Chinese motifs. The top part of the bookmark is adorned with a small, exquisitely crafted charm in the shape of a peony, which symbolizes prosperity and good fortune in Chinese culture. The charm is further embellished with a few delicate beads, adding a pop of color and an element of sophistication to the design.
+
+What makes this bookmark truly beautiful, in my opinion, is the harmonious blend of functionality and artistry. Its elaborate design showcases the exceptional craftsmanship involved, while its practical use as a bookmark adds value to the object. Furthermore, the cultural significance of the patterns and motifs imbues it with a sense of heritage and tradition, making it even more appealing.
+
+In conclusion, the elegant bookmark gifted to me by my friend is an object that I consider to be exceptionally beautiful. Its intricate design, cultural symbolism, and practical use combine to create a masterpiece that I cherish and appreciate. The thoughtfulness of my friend's gesture and the sentimental value attached to the gift make it even more special, and it serves as a constant reminder of our precious friendship.
+
+---
+
+# 自豪的照片
+
+**Describe a photo you took that you are proud of**
+**You should say:**
+**When you took it**
+**Where you took it**
+**What is in this photo**
+**And explain why you are proud of it**
 
 
 
